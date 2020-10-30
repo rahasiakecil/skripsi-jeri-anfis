@@ -1,2 +1,1 @@
-
-
+# skripsi-jeri-anfis
